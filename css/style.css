@@ -1,0 +1,47 @@
+
+.nav-link{
+    font-weight: 600;
+    font-size: 16px;
+    color: black !important;
+    margin-right: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.navbar-brand img{
+    width: 144px;
+    height: 34px;    
+}
+.main1{
+    width: 2000px;
+    height: 1000px;
+    /* color: white; */
+    text-align: left;
+    background-color: white;
+    margin: auto;
+}
+.btn{
+    width: 170px;
+    height: 50px;
+    margin-right: 40px;
+}
+.book{
+    width: 500px;
+    height: 500px;
+    margin-left: 100px;
+}
+.worda{
+    margin-left: 200px;
+}
+.wordb{
+    margin-left: 150px;
+}
+.wordc{
+    margin-left: 150px;
+}
+.wordd{
+    margin-left: 150px;
+}
+.author{
+    width: 500px;
+    height: 500px;
+    margin-left: 100px;
+}
