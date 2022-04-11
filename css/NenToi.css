@@ -123,7 +123,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(../Ảnh/sach3.png) no-repeat;
+    background: url(../Ảnh/sach5.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -155,8 +155,9 @@ section{
 }
 .about .row .image img{
     width: 100%;
+    
 }
-.about .row .content{
+.about .row .content{ 
     flex: 1 1 25rem;
     padding: 2rem;
 }

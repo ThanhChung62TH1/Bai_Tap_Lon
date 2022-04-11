@@ -1,0 +1,91 @@
+h1{
+    font-family: "DM Sans", sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 59,8px;
+}
+.text1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+p{
+    font-family: "DM Sans", sans-serif;
+    font-size: 16px;
+    text-align: center;
+    color: #444444;
+}
+.text2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.actionForm1 input[type="text"], 
+.actionForm2 input[type="text"],
+.actionForm3 input[type="text"]{
+    border-radius: 30px;
+    border: 2px solid #e8ecee;
+    background-color: #e8ecee;
+}
+.actionForm1 input[type="text"]:hover{
+    border: 2px solid #ff4343;
+}
+.actionForm2 input[type="text"]:hover{
+    border: 2px solid #ff4343;
+}
+.actionForm3 input[type="text"]:hover{
+    border: 2px solid #ff4343;
+}
+.actionForm1 input[type="text"], 
+.actionForm2 input[type="text"]{
+    float: left;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.actionForm1 input[type="text"]{
+    width: 450px;
+    height: 55px;
+}
+.actionForm2 input[type="text"]{
+    width: 450px;
+    height: 55px;
+    margin-left: 15px;
+}
+.actionForm3 input[type="text"]{
+    width: 920px;
+    height: 169px;
+}
+.inner1,
+.inner2{
+    float: left;
+    width: 50%;
+    margin: 0 auto;
+}
+.inner1,
+.inner2,
+.inner3{
+    width: 50%;
+    margin: 0 auto;
+    margin-left: 200px;
+}
+.inner4,
+.inner5{
+    float: left;
+    width: 50%;
+    margin: 0 auto;
+}
+.inner6{
+    margin-top: 40px;
+    margin-left: 55px;
+}
+.button{
+    font-family: "DM Sans", sans-serif;
+    border-radius: 5px;
+    background-color: #5454DC;
+    width: 193,172px;
+    height: 54px;
+    margin-left: 305px;
+}
+.button:hover{
+    background-color: #ff4343;
+}
+ 
