@@ -336,7 +336,7 @@ section{
 
 
 
-/* media queries
+/* media queries */
 @media (max-width:991px){
     html{
         font-size: 55%;
@@ -353,7 +353,7 @@ section{
         position: absolute;
         top:100%; right: 0;
         background: #fff;
-        width: 30rem;
+        width: 10rem;
         height:calc(100vh - 9.5rem);
     }
     .header .navbar.active{
@@ -366,4 +366,4 @@ section{
         padding: .5rem;
         font-size: 2rem;
     }
-} */
+}
