@@ -52,7 +52,7 @@ p{
 }
 .actionForm3 input[type="text"]{
     width: 920px;
-    height: 169px;
+    height: 250px;
 }
 .inner1,
 .inner2{
@@ -72,18 +72,22 @@ p{
     float: left;
     width: 50%;
     margin: 0 auto;
+    margin-top: 5px;
 }
 .inner6{
-    margin-top: 40px;
+    margin-top: 80px;
     margin-left: 55px;
 }
 .button{
     font-family: "DM Sans", sans-serif;
     border-radius: 5px;
+    font-size: 25px;
     background-color: #5454DC;
-    width: 193,172px;
+    width: 90px;
+    margin-left: 340px;
+    /* width: 193,172px;
     height: 54px;
-    margin-left: 305px;
+    margin-left: 305px; */
 }
 .button:hover{
     background-color: #ff4343;
